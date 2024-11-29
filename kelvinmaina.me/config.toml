@@ -76,7 +76,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "As a passionate computer science & math teacher, I have had the privilege of teaching students from diverse backgrounds and helping them discover their potential in this rapidly evolving field. With a Bachelor's degree in Computer Science and 6 years of experience as a teacher, I am confident in my ability to inspire and motivate students to pursue their interests in computer science. My teaching philosophy emphasizes hands-on, project-based learning, and I strive to create an inclusive and engaging classroom environment that fosters creativity, critical thinking, and collaboration. Through my teaching, I hope to empower the next generation of computer scientists to make meaningful contributions to society and to realize their full potential."
+        description = "A seasoned computer science and IT consultant, I specialize in web and mobile development, with a proven track record of delivering innovative, high-quality solutions, including a published app on the Google Play Store and impactful web-based projects. As a passionate educator, I emphasize hands-on, project-based learning to foster creativity, critical thinking, and collaboration, empowering the next generation of computer scientists. Committed to staying ahead of industry trends, I combine expertise in consulting and education to drive innovation and excellence in technology."
     # Experience section
     [params.experience]
         title = "Experiences"
